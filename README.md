@@ -32,7 +32,6 @@ Language
 Plot
 Actors/Actresses
 
-
 Please view the attached screenshots as a reference:
 concert-this_01.PNG (user inputted the search term "cher")
 concert-this_02.PNG (user did not provide a search term, therefore the program defaulted to "pink")
