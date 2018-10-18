@@ -9,10 +9,29 @@ movie-this
 do-what-it-says
 
 If "concert-this" command is followed by a blank search query the program will default to "pink" as a search item.
+"Concert-this" will return the following data points:
+Name of the Venue
+Venue Location
+Date of the Event in ("MM/DD/YYYY") format
 
 If "spotify-this-song" command is followed by a blank search query, the program will default to "Ace of Base The Sign" as a search item.
+"Spotify-this-song" will return the following data points:
+Artist
+Song's Name
+Preview URL Link
+Album where the song is from
 
 If "movie-this" command is followed by a blank search query, the program will default to "Mr. Nobody" as a search item.
+"Movie-this" will return the following data points:
+Title of the Movie
+Year the Movie Release
+IMDB Rating
+Rotten Tomatoes Rating
+Country of Origin
+Language
+Plot
+Actors/Actresses
+
 
 Please view the attached screenshots as a reference:
 concert-this_01.PNG (user inputted the search term "cher")
